@@ -31,3 +31,7 @@ Como um lego, vocë irá utilizar peças para criar algoritimos, ou seja, para r
 
  # Condicionais 
   - [x] switch
+
+# Modulos em node.js:
+- [x] Importação de modulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos

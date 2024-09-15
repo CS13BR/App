@@ -24,3 +24,10 @@ Como um lego, vocë irá utilizar peças para criar algoritimos, ou seja, para r
  coletas os dados 
  processar os dados (manipular, alterar ... )
  apresentar os dados 
+
+ # Estrutura de repetição 
+
+ - [x] while
+
+ # Condicionais 
+  - [] switch

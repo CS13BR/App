@@ -30,4 +30,4 @@ Como um lego, vocë irá utilizar peças para criar algoritimos, ou seja, para r
  - [x] while
 
  # Condicionais 
-  - [] switch
+  - [x] switch

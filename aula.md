@@ -32,6 +32,18 @@ Como um lego, vocë irá utilizar peças para criar algoritimos, ou seja, para r
  # Condicionais 
   - [x] switch
 
+  - [x] if/else
+
 # Modulos em node.js:
 - [x] Importação de modulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assincronas promises:
+
+- [x] Uso de funções assíncronas (async/await)
+
+## Operadores 
+
+- [x] Operadores de atribuição de valor = 
+- [x] Operador de contatenação +
+- [x] Operadores de comparação == != <= >= < >
